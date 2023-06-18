@@ -1,12 +1,12 @@
 
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the osTicket ticketing system.<br />
 
 
 
 
-<h2>Environments and Technologies Used</h2>
+<br/><h2>Environments & Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -14,7 +14,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -23,9 +23,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<br/><h2>A Day In The Life of a Helpdesk Ticket</h2>
 
-<p>
+
+<br/><p>
 <img src="https://i.imgur.com/QE7lSOW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
