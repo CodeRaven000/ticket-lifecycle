@@ -23,7 +23,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<br/><h2>A Day In The Life of a Helpdesk Ticket</h2>
+<br/><h2>A Day in The Life of a Helpdesk Ticket</h2>
 
 
 <br/><p>
@@ -57,7 +57,7 @@ Inside the ticket we'll fill out the contact information - select the Help Topic
 <img src="https://i.imgur.com/Q8pdbFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As the Admin, we'll go in and view the tickets and make any necessary revisions such as the level of serverity, the turnaround time for completion and assign each ticket to an Agent.
+As the Admin, we'll go in and view the tickets and make any necessary revisions such as the level of severity, the turnaround time for completion and assign each ticket to an Agent.
 </p>
 <br />
 <p>
