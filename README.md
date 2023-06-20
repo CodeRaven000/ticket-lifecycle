@@ -23,7 +23,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<br/><h2>A Day in The Life of a Helpdesk Ticket</h2>
+<br/><h2>A Day in The Life of a Help Desk Ticket</h2>
 
 
 <br/><p>
